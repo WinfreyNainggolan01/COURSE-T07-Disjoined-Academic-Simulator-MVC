@@ -1,8 +1,8 @@
 compile :
-	javac src/academic/model/*.java src/academic/driver/Driver2.java -d bin
+	javac src/academic/model/*.java src/academic/controller/*.java src/academic/view/Driver1.java -d bin
 
-test_01 :
-	cd bin && java academic.driver.Driver2
+test :
+	cd bin && java academic.view.Driver1
 
 
 
