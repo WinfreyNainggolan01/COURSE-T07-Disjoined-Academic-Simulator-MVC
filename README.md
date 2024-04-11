@@ -34,6 +34,7 @@ This functionality enables the opening of courses for student enrollment. It ens
 ### 9. Course History ('course-history')
 The course history feature provides access to the historical data of courses offered within the academic institution. It supports informed decision-making processes and facilitates the analysis of past academic trends.
 
+***
 Let's see the example
 
 
